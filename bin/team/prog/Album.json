@@ -1,0 +1,63 @@
+{
+"album": "Collection of songs",
+"treks":[	{ "title":"The pilot",
+			"singer":"Perkalaba",
+			"time":{"minute":"3",
+					"second":"50"}},
+			
+			{"title":"Tanec pingvina",
+			"singer":"Skriabin",
+			"time":{"minute":"3",
+					"second":"03"}},	
+			
+			{"title":"Gelosia",
+			"singer":"Andriano Celentano",
+			"time":{"minute":"4",
+					"second":"30"}},
+					
+			{"title":"Mamma Maria",
+			"singer":"Ricchi e Poveri",
+			"time":{"minute":"3",
+					"second":"36"}},
+					
+			{"title":"The lady in red",
+			"singer":"Chris de Burgh",
+			"time":{"minute":"4",
+					"second":"21"}},
+					
+			{"title":"Symphony",
+			"singer":"Space",
+			"time":{"minute":"4",
+					"second":"59"}}, 	
+			
+			{"title":"Don't cry for Louie",
+			"singer":"Vaya con Dios",
+			"time":{"minute":"3",
+					"second":"03"}},
+				
+			{"title":"Master of Puppets",
+			"singer":"Metallica",
+			"time":{"minute":"3",
+					"second":"36"}},
+					
+			{"title":"Vidpusty",
+			"singer":"OE",
+			"time":{"minute":"4",
+					"second":"21"}},
+					
+			{"title":"Osen",
+			"singer":"DDT",
+			"time":{"minute":"4",
+					"second":"59"}}, 	
+			
+			{"title":"Zeleni ochi",
+			"singer":"OE",
+			"time":{"minute":"3",
+					"second":"03"}},
+								
+			{"title":"Vidpusty",
+			"singer":"Zemfira",
+			"time":{"minute":"3",
+					"second":"03"}}		
+					]
+}

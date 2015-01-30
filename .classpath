@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/Документи/QA_Tester/Lesson№5/jars-for-lesson-practice/json-libraries/jackson-annotations-2.4.2.jar"/>
+	<classpathentry kind="lib" path="E:/Документи/QA_Tester/Lesson№5/jars-for-lesson-practice/json-libraries/java-json.jar"/>
+	<classpathentry kind="lib" path="E:/Документи/QA_Tester/Lesson№5/jars-for-lesson-practice/json-libraries/jackson-databind-2.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/Документи/QA_Tester/Lesson№5/jars-for-lesson-practice/json-libraries/jackson-core-2.4.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
